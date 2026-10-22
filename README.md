@@ -1,0 +1,1 @@
+<img src="https://raw.githubusercontent.com/hatsuraide/hatsuraide/output/snake.svg" alt="Snake animation" />
